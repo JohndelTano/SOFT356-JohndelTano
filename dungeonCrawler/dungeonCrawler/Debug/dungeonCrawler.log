@@ -1,0 +1,3 @@
+﻿  dungeonCrawler.cpp
+C:\Users\jtano\source\repos\dungeonCrawler\dungeonCrawler\dungeonCrawler.cpp(49): warning C4715:  'callMap': not all control paths return a value
+  dungeonCrawler.vcxproj -> C:\Users\jtano\source\repos\dungeonCrawler\Debug\dungeonCrawler.exe
